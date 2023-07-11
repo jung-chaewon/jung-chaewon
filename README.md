@@ -1,2 +1,2 @@
 # Welcome to my github Profile
-# 121132132132132132
+# 성일정보고 소프트웨어개발과 정채원
